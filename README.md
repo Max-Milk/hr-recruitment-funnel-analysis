@@ -39,7 +39,7 @@ As a **Recruitment Manager** at XMD Corporation (a fast-growing IT consulting fi
 ## 🔥 Insights
 ### Talent Agencies Outperformed
 - **27% hire rate** (vs. 20% historic)
-- Higher conversion at every stage (see `!(images/Agencies_Funnel_Chart.png)`)
+- Higher conversion at every stage (see `Agencies_Funnel_Chart.png`)
 
 ### Referral Program Challenges
 - **72% attrition** at initial screening (vs. 45% for agencies)
